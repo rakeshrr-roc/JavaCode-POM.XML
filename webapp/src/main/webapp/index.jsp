@@ -1,7 +1,3 @@
-<h1> Hello Dear Students !! Welcome to DevOps Project-2 !! </h1>
-<h2> By Mr. Sai from Saidemy </h2>
-<h2> It's time to start the DevOps Project-2!! Get ready!!! </h2>
-<h2> We are done with Ansible Deployment !! </h2>
-<h2> This is End-End CI-CD Pipeline DevOps Project with Ansible by Mr. Sai from Saidemy!! </h2>
-<h2> We are done with Docker Deployment !! </h2>
-<h2> This is End-End CI-CD Pipeline DevOps Project with Docker by Mr. Sai from Saidemy!! </h2>
+<h1> hi all this is Lokeshkumar this content is belonging to project </h1>
+<h2> hi all this is naveen from amvo project2 line2 </h2>
+<h3> this is 3rdline added<h3>
